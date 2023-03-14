@@ -19,7 +19,6 @@
         <module>javaSE</module>
         <module>springboot</module>
         <module>spring</module>
-        <module>Algorithm</module>
     </modules>
 
     <properties>
